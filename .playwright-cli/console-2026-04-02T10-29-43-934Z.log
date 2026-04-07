@@ -1,0 +1,19 @@
+[    1387ms] [LOG] [UI] [idb] getDbInstance @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[    1531ms] [LOG] [UI] [idb] getDbInstance @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[    1748ms] [LOG] [UI] [idb] getDbInstance @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[    1818ms] [LOG] [UI] [idb] getDbInstance @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[    1841ms] [LOG] [UI] [idb] create object store: Logs @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[    1842ms] [LOG] [UI] [idb] create object store: CppRuntime @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[    1842ms] [LOG] [UI] [idb] create object store: PageAction @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[    1842ms] [LOG] [UI] [idb] create object store: Plugins @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[    2826ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.boardmix.com/api/web/share/access:0
+[   85271ms] [LOG] [UI] [LifeCycle] onBeforeInit @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[   85770ms] [LOG] [UI] [LifeCycle] onWasmReady @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[   86140ms] [LOG] [UI] [LifeCycle] onFileReady @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[   88096ms] [LOG] [UI] [LifeCycle] onCoopReady @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[   88097ms] [LOG] [UI] [LifeCycle] onAfterInit @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[   88385ms] [LOG] [perf]loadBoardFile: 265.20ms @ https://cdn.boardmix.com/app/wasm/SkmModule.b6df687f4b.js:8
+[   89161ms] [LOG] [UI] [LifeCycle] onPageStart @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[   89166ms] [LOG] [UI] [LifeCycle] onPreloadComplete @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[   89209ms] [LOG] [UI] [LifeCycle] onPageReady @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57
+[   89212ms] [LOG] [UI] [LifeCycle] onPageResume @ https://cdn.boardmix.com/app/assets/index-CfKbeql_.js:57

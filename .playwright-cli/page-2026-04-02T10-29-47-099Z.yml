@@ -1,0 +1,13 @@
+- generic [active]:
+  - generic [ref=e3]:
+    - img [ref=e4]
+    - img [ref=e20]
+    - img [ref=e33]
+    - img [ref=e49]
+    - img [ref=e60]
+    - generic [ref=e64]:
+      - img "guest-name" [ref=e65]
+      - generic [ref=e66]: 파일에 참여하기 전에 자신을 소개하세요.
+      - textbox "이름을 입력하십시오." [ref=e68]
+      - generic [ref=e69]: 지금 협업에 참여합시다.
+  - img
